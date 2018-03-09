@@ -55,6 +55,7 @@ module:
   inline_entity_form: 0
   interval: 0
   jsonapi: 0
+  kint: 0
   layout_discovery: 0
   layoutmanager: 0
   lightning_api: 0
@@ -105,6 +106,7 @@ module:
   rdf: 0
   redhat_developers: 0
   rest: 0
+  rhd_assemblies: 0
   rhd_common: 0
   rhd_microsite: 0
   rhd_solution_overview: 0
